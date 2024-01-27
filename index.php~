@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<form action="welcome.php" method="post">
+<br><br>
+ <label for="name">Kundens namn:</label>
+<input type="text" id="name" name="name"><br><br><br><br><br>
+<input type="submit" value="Skicka in formuläret">
+</form>
+
+
+</body>
+</html>
+
